@@ -1,3 +1,4 @@
+# This is to inform you , that I HAVE  started to workd with exel project with "Exel project part 1"
 # Excel_Project_Group_3
 
 # project done by:
@@ -6,3 +7,5 @@
 # Yonas T
 
 # to check merge files
+
+# last one to check weather or not commit is works with my branche 
